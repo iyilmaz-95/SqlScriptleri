@@ -1,1 +1,579 @@
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 1, 'Parameter Description 1', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
 
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 2, 'Parameter Description 2', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 3, 'Parameter Description 3', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 4, 'Parameter Description 4', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 5, 'Parameter Description 5', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 6, 'Parameter Description 6', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 7, 'Parameter Description 7', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 8, 'Parameter Description 8', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 9, 'Parameter Description 9', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 10, 'Parameter Description 10', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 11, 'Parameter Description 11', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 12, 'Parameter Description 12', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 13, 'Parameter Description 13', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 14, 'Parameter Description 14', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 15, 'Parameter Description 15', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 16, 'Parameter Description 16', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 17, 'Parameter Description 17', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 18, 'Parameter Description 18', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 19, 'Parameter Description 19', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 20, 'Parameter Description 20', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 21, 'Parameter Description 21', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 22, 'Parameter Description 22', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 23, 'Parameter Description 23', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 24, 'Parameter Description 24', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 25, 'Parameter Description 25', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 26, 'Parameter Description 26', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 27, 'Parameter Description 27', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 28, 'Parameter Description 28', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 29, 'Parameter Description 29', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 30, 'Parameter Description 30', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 31, 'Parameter Description 31', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 32, 'Parameter Description 32', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 33, 'Parameter Description 33', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 34, 'Parameter Description 34', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 35, 'Parameter Description 35', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 36, 'Parameter Description 36', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 37, 'Parameter Description 37', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 38, 'Parameter Description 38', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 39, 'Parameter Description 39', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 40, 'Parameter Description 40', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 41, 'Parameter Description 41', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 42, 'Parameter Description 42', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 43, 'Parameter Description 43', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 44, 'Parameter Description 44', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 45, 'Parameter Description 45', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 46, 'Parameter Description 46', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 47, 'Parameter Description 47', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 48, 'Parameter Description 48', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 49, 'Parameter Description 49', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 50, 'Parameter Description 50', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 51, 'Parameter Description 51', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 52, 'Parameter Description 52', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 53, 'Parameter Description 53', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 54, 'Parameter Description 54', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 55, 'Parameter Description 55', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 56, 'Parameter Description 56', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 57, 'Parameter Description 57', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 58, 'Parameter Description 58', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 59, 'Parameter Description 59', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 60, 'Parameter Description 60', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 61, 'Parameter Description 61', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 62, 'Parameter Description 62', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 63, 'Parameter Description 63', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 64, 'Parameter Description 64', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 65, 'Parameter Description 65', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 66, 'Parameter Description 66', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 67, 'Parameter Description 67', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 68, 'Parameter Description 68', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 69, 'Parameter Description 69', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 70, 'Parameter Description 70', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 71, 'Parameter Description 71', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 72, 'Parameter Description 72', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 73, 'Parameter Description 73', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 74, 'Parameter Description 74', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 75, 'Parameter Description 75', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 76, 'Parameter Description 76', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 77, 'Parameter Description 77', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 78, 'Parameter Description 78', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 79, 'Parameter Description 79', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 80, 'Parameter Description 80', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 81, 'Parameter Description 81', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 82, 'Parameter Description 82', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 83, 'Parameter Description 83', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 84, 'Parameter Description 84', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 85, 'Parameter Description 85', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 86, 'Parameter Description 86', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 87, 'Parameter Description 87', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 88, 'Parameter Description 88', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 89, 'Parameter Description 89', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 90, 'Parameter Description 90', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 91, 'Parameter Description 91', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 92, 'Parameter Description 92', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 93, 'Parameter Description 93', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 94, 'Parameter Description 94', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 95, 'Parameter Description 95', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 96, 'Parameter Description 96', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 97, 'Parameter Description 97', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 98, 'Parameter Description 98', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 99, 'Parameter Description 99', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 100, 'Parameter Description 100', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 101, 'Parameter Description 101', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 102, 'Parameter Description 102', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 103, 'Parameter Description 103', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 104, 'Parameter Description 104', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 105, 'Parameter Description 105', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 106, 'Parameter Description 106', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 107, 'Parameter Description 107', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 108, 'Parameter Description 108', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 109, 'Parameter Description 109', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 110, 'Parameter Description 110', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 111, 'Parameter Description 111', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 112, 'Parameter Description 112', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 113, 'Parameter Description 113', 1, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 114, 'Parameter Description 114', 2, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 115, 'Parameter Description 115', 3, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [ParamValue2], [ParamValue3], [ParamValue4], [ParamValue5], [ParamValue6], [ParamValue7], [ParamValue8], [ParamDate], [LanguageId], [UserName], [HostName], [SystemDate], [UpdateUserName], [UpdateHostName], [UpdateSystemDate], [HostIP], [ParamGroupCode], [SortOrder])
+VALUES
+('SIGNALKINDS', 116, 'Parameter Description 116', 4, 1, NULL, NULL, NULL, NULL, NULL, NULL, '2025-12-04 17:33:00', 1, 'ARCUser', 'ARCHostName', '2025-12-04 17:32:46.190', NULL, NULL, NULL, '1.1.1.1', 'CEKIST', 3);
