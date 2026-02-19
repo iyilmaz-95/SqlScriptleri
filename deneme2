@@ -95,11 +95,11 @@ INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, Para
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM091', 'Trafik sigortaları birlik entegrasyonu', 0, 1);
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM092', 'Emniyet genel müdürlük entegrasyonu', 1, 1);
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM093', 'Nüfus müdürlüğü entegrasyonu', 2, 1);
-INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM094', 'Tapu kadastro entegrasyonu', 3, 1);
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM094', 'Tapu ve kadastro entegrasyonu', 3, 1);
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM095', 'Banka entegrasyonu aktif durumu', 4, 1);
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM096', 'Kredi kartı entegrasyonu', 5, 1);
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM097', 'Sanal pos entegrasyonu', 6, 1);
-INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM098', 'Ekspertiz firmalar entegrasyonu', 7, 1);
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM098', 'Ekspertiz firmaları entegrasyonu', 7, 1);
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM099', 'Servis ağı entegrasyonu', 8, 1);
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM100', 'Yetkili bayi entegrasyonu', 9, 1);
 INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2) VALUES ('INTEGRATION', 'PARAM101', 'Asistans firma entegrasyonu', 0, 1);
