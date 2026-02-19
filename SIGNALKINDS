@@ -1,1 +1,463 @@
-//deneme
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 1', '1', 1);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 2', '2', 2);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 3', '3', 3);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 4', '4', 4);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 5', '1', 5);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 6', '2', 6);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 7', '3', 7);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 8', '4', 8);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 9', '1', 9);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 10', '2', 10);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 11', '3', 11);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 12', '4', 12);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 13', '1', 13);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 14', '2', 14);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 15', '3', 15);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 16', '4', 16);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 17', '1', 17);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 18', '2', 18);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 19', '3', 19);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 20', '4', 20);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 21', '1', 21);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 22', '2', 22);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 23', '3', 23);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 24', '4', 24);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 25', '1', 25);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 26', '2', 26);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 27', '3', 27);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 28', '4', 28);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 29', '1', 29);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 30', '2', 30);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 31', '3', 31);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 32', '4', 32);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 33', '1', 33);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 34', '2', 34);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 35', '3', 35);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 36', '4', 36);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 37', '1', 37);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 38', '2', 38);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 39', '3', 39);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 40', '4', 40);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 41', '1', 41);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 42', '2', 42);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 43', '3', 43);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 44', '4', 44);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 45', '1', 45);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 46', '2', 46);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 47', '3', 47);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 48', '4', 48);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 49', '1', 49);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 50', '2', 50);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 51', '3', 51);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 52', '4', 52);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 53', '1', 53);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 54', '2', 54);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 55', '3', 55);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 56', '4', 56);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 57', '1', 57);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 58', '2', 58);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 59', '3', 59);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 60', '4', 60);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 61', '1', 61);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 62', '2', 62);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 63', '3', 63);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 64', '4', 64);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 65', '1', 65);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 66', '2', 66);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 67', '3', 67);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 68', '4', 68);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 69', '1', 69);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 70', '2', 70);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 71', '3', 71);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 72', '4', 72);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 73', '1', 73);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 74', '2', 74);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 75', '3', 75);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 76', '4', 76);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 77', '1', 77);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 78', '2', 78);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 79', '3', 79);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 80', '4', 80);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 81', '1', 81);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 82', '2', 82);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 83', '3', 83);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 84', '4', 84);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 85', '1', 85);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 86', '2', 86);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 87', '3', 87);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 88', '4', 88);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 89', '1', 89);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 90', '2', 90);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 91', '3', 91);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 92', '4', 92);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 93', '1', 93);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 94', '2', 94);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 95', '3', 95);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 96', '4', 96);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 97', '1', 97);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 98', '2', 98);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 99', '3', 99);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 100', '4', 100);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 101', '1', 101);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 102', '2', 102);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 103', '3', 103);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 104', '4', 104);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 105', '1', 105);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 106', '2', 106);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 107', '3', 107);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 108', '4', 108);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 109', '1', 109);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 110', '2', 110);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 111', '3', 111);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 112', '4', 112);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 113', '1', 113);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 114', '2', 114);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 115', '3', 115);
+
+INSERT INTO [COR].[Parameter]
+           ([ParamType], [ParamCode], [ParamDescription], [ParamValue], [SortOrder]) 
+VALUES     ('SIGNALKINDS', 'SIGNALKINDS', 'Signal Kind 116', '4', 116);
