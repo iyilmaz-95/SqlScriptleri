@@ -1,1 +1,350 @@
+-- INSERT statements for SIGNALKINDS parameters
+-- Total: 116 records
 
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '1', 'Araç kasko masraf gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 1);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '2', 'Araç trafik masraf gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 2);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '3', 'Araç bakım masraf gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 3);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '4', 'Araç yakıt masraf gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 4);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '5', 'Araç ceza masraf gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 5);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '6', 'Araç otopark masraf gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 6);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '7', 'Araç HGS masraf gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 7);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '8', 'Araç periyodik bakım gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 8);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '9', 'Araç lastik değişim gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 9);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '10', 'Araç yıllık muayene gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 10);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '11', 'Araç ruhsat yenileme gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 11);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '12', 'Araç egzoz emisyon testi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 12);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '13', 'Araç fren testi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 13);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '14', 'Araç far ayar testi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 14);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '15', 'Araç klima bakımı gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 15);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '16', 'Araç yağ değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 16);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '17', 'Araç filtre değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 17);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '18', 'Araç akü kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 18);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '19', 'Araç balans ayarı gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 19);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '20', 'Araç rot ayarı gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 20);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '21', 'Araç triger kayışı değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 21);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '22', 'Araç buji değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 22);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '23', 'Araç fren balatası değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 23);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '24', 'Araç fren diski değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 24);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '25', 'Araç amortisör kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 25);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '26', 'Araç süspansiyon kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 26);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '27', 'Araç radyatör kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 27);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '28', 'Araç soğutma suyu değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 28);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '29', 'Araç silecek değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 29);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '30', 'Araç cam suyu kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 30);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '31', 'Araç motor kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 31);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '32', 'Araç şanzıman kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 32);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '33', 'Araç diferansiyel kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 33);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '34', 'Araç egzoz sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 34);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '35', 'Araç katalitik konvertör kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 35);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '36', 'Araç turbo kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 36);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '37', 'Araç hava filtresi değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 37);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '38', 'Araç yakıt filtresi değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 38);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '39', 'Araç yağ filtresi değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 39);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '40', 'Araç klima filtresi değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 40);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '41', 'Araç polen filtresi değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 41);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '42', 'Araç hidrolik yağ değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 42);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '43', 'Araç şanzıman yağı değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 43);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '44', 'Araç diferansiyel yağı değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 44);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '45', 'Araç direksiyon hidrolik yağı değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 45);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '46', 'Araç fren hidrolik yağı değişimi gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 46);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '47', 'Araç kapı kilidi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 47);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '48', 'Araç merkezi kilit sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 48);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '49', 'Araç cam kaldırma sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 49);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '50', 'Araç ayna ayar sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 50);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '51', 'Araç koltuk ayar sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 51);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '52', 'Araç havalandırma sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 52);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '53', 'Araç ısıtma sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 53);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '54', 'Araç soğutma sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 54);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '55', 'Araç alarm sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 55);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '56', 'Araç immobilizer sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 56);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '57', 'Araç hırsız alarm sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 57);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '58', 'Araç GPS sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 58);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '59', 'Araç navigasyon sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 59);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '60', 'Araç multimedya sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 60);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '61', 'Araç bluetooth sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 61);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '62', 'Araç AUX girişi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 62);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '63', 'Araç USB girişi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 63);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '64', 'Araç hoparlör sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 64);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '65', 'Araç ses sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 65);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '66', 'Araç ön kamera sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 66);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '67', 'Araç arka kamera sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 67);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '68', 'Araç park sensörü kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 68);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '69', 'Araç otonom sürüş sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 69);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '70', 'Araç şerit takip sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 70);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '71', 'Araç hız sabitleyici kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 71);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '72', 'Araç adaptif hız kontrol sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 72);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '73', 'Araç çarpışma önleme sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 73);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '74', 'Araç kör nokta uyarı sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 74);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '75', 'Araç trafik işareti tanıma sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 75);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '76', 'Araç yaya algılama sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 76);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '77', 'Araç sürücü yorgunluk uyarı sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 77);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '78', 'Araç gece görüş sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 78);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '79', 'Araç ışık sensörü kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 79);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '80', 'Araç yağmur sensörü kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 80);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '81', 'Araç hava yastığı sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 81);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '82', 'Araç emniyet kemeri uyarı sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 82);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '83', 'Araç ABS sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 83);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '84', 'Araç ESP sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 84);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '85', 'Araç ASR sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 85);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '86', 'Araç TCS sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 86);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '87', 'Araç EBD sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 87);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '88', 'Araç BA sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 88);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '89', 'Araç HDC sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 89);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '90', 'Araç 4WD sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 90);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '91', 'Araç AWD sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 91);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '92', 'Araç limitli kayma diferansiyeli kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 92);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '93', 'Araç elektronik diferansiyel kilidi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 93);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '94', 'Araç yokuş kalkış desteği kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 94);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '95', 'Araç otopark freni kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 95);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '96', 'Araç elektronik el freni kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 96);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '97', 'Araç oto park özelliği kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 97);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '98', 'Araç keyless giriş sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 98);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '99', 'Araç keyless start sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 99);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '100', 'Araç uzaktan başlatma sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 100);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '101', 'Araç klima uzaktan kontrol sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 101);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '102', 'Araç panoramik cam tavan kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 102);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '103', 'Araç elektrikli cam tavan kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 103);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '104', 'Araç ısıtmalı ön cam kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 104);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '105', 'Araç ısıtmalı arka cam kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 105);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '106', 'Araç ısıtmalı yan ayna kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 106);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '107', 'Araç ısıtmalı direksiyon kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 107);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '108', 'Araç ısıtmalı koltuk kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 108);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '109', 'Araç havalandırmalı koltuk kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 109);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '110', 'Araç masajlı koltuk kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 110);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '111', 'Araç hafızalı koltuk kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 111);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '112', 'Araç elektrikli bagaj kapısı kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 112);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '113', 'Araç otomatik far yakma sistemi kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 113);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '114', 'Araç LED far kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 114);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '115', 'Araç xenon far kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 115);
+
+INSERT INTO Parameters (ParamType, ParamCode, ParamDescription, ParamValue, ParamValue2, ParamValue3, ParamValue4, ParamValue5, ParamValue6, ParamValue7, ParamValue8, ParamDate, LanguageId, UserName, HostName, SystemDate, UpdateUserName, UpdateHostName, UpdateSystemDate, HostIP, ParamGroupCode, SortOrder)
+VALUES ('SIGNALKINDS', '116', 'Araç gündüz farları kontrolü gecikme gün sayısı', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 1, 'SYSTEM', 'SERVER01', GETDATE(), NULL, NULL, NULL, '192.168.1.1', 'SIGNALKINDS', 116);
